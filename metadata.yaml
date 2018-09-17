@@ -1,0 +1,28 @@
+_repo: Soldering-Brazing-and-Welding_52074
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Jones, Bernard E. (Bernard Edward)
+    alias: Jones, Bernard Edward
+    birthdate: 1879
+    deathdate: 1965
+    gutenberg_agent_id: '46658'
+    url: http://www.gutenberg.org/2009/agents/46658
+description: ''
+gutenberg_issued: '2016-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52074'
+  lccn: '19003087'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Welding'
+- !lcsh 'Solder and soldering'
+- !lcsh 'Brazing'
+- GITenberg
+title: Soldering, Brazing and Welding
+url: http://www.gutenberg.org/ebooks/52074
